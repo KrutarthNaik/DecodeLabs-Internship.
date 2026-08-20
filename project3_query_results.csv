@@ -1,0 +1,10 @@
+Query,Result
+Total rows,1200
+Total sales,1264761.96
+Average order value,1053.97
+No coupon orders,309
+Top product by sales,Chair - 195620.11
+Top payment method by sales,Credit Card - 263847.63
+Top referral source by sales,Instagram - 275285.45
+Highest order,ORD200789 - Tablet - 3456.40
+SQL requirements covered,SELECT WHERE ORDER BY GROUP BY COUNT SUM AVG HAVING
